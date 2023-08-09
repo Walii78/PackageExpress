@@ -1,1 +1,1 @@
-Branching Assignment
+Branching Assignment: Welcome to PackageExpress! This project showcases a basic package management system using object-oriented programming concepts in C#. It allows you to manage packages, calculate shipping costs, and track deliveries.
